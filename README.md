@@ -2,11 +2,19 @@
 
 <img src="./images/table.png" alt="Images table screenshot" width="100%" />
 
-<img src="./images/create_project_form.png" alt="Create project form screenshot" width="100%" />
-
-<img src="./images/create_project_card.png" alt="Create project card screenshot" width="100%" />
-
-<img src="./images/auth_form.png" alt="Auth form screenshot" width="100%" />
+<table>
+  <tr>
+    <td>
+      <img src="./images/create_project_form.png" alt="Create project form screenshot" width="100%" />
+    </td>
+    <td>
+      <img src="./images/create_project_card.png" alt="Create project card screenshot" width="100%" />
+    </td>
+    <td>
+      <img src="./images/auth_form.png" alt="Auth form screenshot" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <img src="./images/keystone.png" alt="Keystone screenshot" width="100%" />
 
