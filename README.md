@@ -1,5 +1,13 @@
 # random frontend work
 
+<img src="./images/table.png" alt="Images table screenshot" width="100%" />
+
+<img src="./images/create_project_form.png" alt="Create project form screenshot" width="100%" />
+
+<img src="./images/create_project_card.png" alt="Create project card screenshot" width="100%" />
+
+<img src="./images/auth_form.png" alt="Auth form screenshot" width="100%" />
+
 <img src="./images/keystone.png" alt="Keystone screenshot" width="100%" />
 
 <img src="./images/keystone_splash.gif" alt="Keystone splash gif" width="100%" />
